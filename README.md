@@ -1,2 +1,3 @@
 # finance-bond_valuation.py
-Bond value class
+
+Fixed income, equities, and more.

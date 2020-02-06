@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*-
 
 """
-Purpose: Value at Risk
+Purpose: Get data from Y-hoo F*nance
 Date created: Sat Feb  1 17:43:19 2020
 
 """
